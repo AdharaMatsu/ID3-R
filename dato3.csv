@@ -1,0 +1,8 @@
+﻿PuntualidadAsistencia,Participación,Aprovechamiento,Calificación
+No Asiste,Media,Excelente,Exento
+Asiste,Alta,Bueno,Exento
+No Asiste,Media,Bueno,Final
+No Asiste,Baja,Bueno,Final
+Asiste,Alta,Regular,Final
+Asiste,Baja,Deficiente,Extraordinario
+No Asiste,Media,Regular,Extraordinario

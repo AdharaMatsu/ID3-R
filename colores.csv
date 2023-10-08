@@ -1,0 +1,7 @@
+﻿Color,Forma,Tamaño,Clase
+Rojo,Cuadrado,Grande,+
+Azul,Cuadrado,Grande,+
+Rojo,Redondo,Pequeño,-
+Verde,Cuadrado,Pequeño,-
+Rojo,Redondo,Grande,+
+Verde,Cuadrado,Grande,-
